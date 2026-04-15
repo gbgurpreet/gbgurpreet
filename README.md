@@ -16,7 +16,7 @@ Gurpreet Singh (also known as **gbgurpreet**) is a developer focused on AI integ
 ---
 
 ## 🚀 Portfolio
-👉 https://gs-portfolio.vercel.app  
+👉 https://gbgurpreet.vercel.app
 
 ## 🔗 Connect with me
 - LinkedIn: https://www.linkedin.com/in/gbgurpreet
